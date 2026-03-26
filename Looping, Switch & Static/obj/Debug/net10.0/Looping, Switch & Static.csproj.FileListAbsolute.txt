@@ -1,0 +1,14 @@
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\bin\Debug\net10.0\Looping, Switch & Static.exe
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\bin\Debug\net10.0\Looping, Switch & Static.deps.json
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\bin\Debug\net10.0\Looping, Switch & Static.runtimeconfig.json
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\bin\Debug\net10.0\Looping, Switch & Static.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\bin\Debug\net10.0\Looping, Switch & Static.pdb
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\Looping, Switch & Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\Looping, Switch & Static.AssemblyInfoInputs.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\Looping, Switch & Static.AssemblyInfo.cs
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\Looping, Switch & Static.csproj.CoreCompileInputs.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\Looping, Switch & Static.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\refint\Looping, Switch & Static.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\Looping, Switch & Static.pdb
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\Looping, Switch & Static.genruntimeconfig.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 4\Looping, Switch & Static\Looping, Switch & Static\obj\Debug\net10.0\ref\Looping, Switch & Static.dll

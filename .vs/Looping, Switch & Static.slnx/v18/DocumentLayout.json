@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 4\\Looping, Switch \u0026 Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D164CA3-BBA0-4289-9824-02E7D7F92F49}|Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 4\\looping, switch \u0026 static\\looping, switch \u0026 static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D164CA3-BBA0-4289-9824-02E7D7F92F49}|Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static.csproj|solutionrelative:looping, switch \u0026 static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D164CA3-BBA0-4289-9824-02E7D7F92F49}|Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 4\\looping, switch \u0026 static\\looping, switch \u0026 static\\exceptions\\invalidinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D164CA3-BBA0-4289-9824-02E7D7F92F49}|Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static.csproj|solutionrelative:looping, switch \u0026 static\\exceptions\\invalidinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D164CA3-BBA0-4289-9824-02E7D7F92F49}|Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 4\\looping, switch \u0026 static\\looping, switch \u0026 static\\exceptions\\invalidmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D164CA3-BBA0-4289-9824-02E7D7F92F49}|Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static.csproj|solutionrelative:looping, switch \u0026 static\\exceptions\\invalidmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidMarks.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 4\\Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static\\Exceptions\\InvalidMarks.cs",
+              "RelativeDocumentMoniker": "Looping, Switch \u0026 Static\\Exceptions\\InvalidMarks.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 4\\Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static\\Exceptions\\InvalidMarks.cs",
+              "RelativeToolTip": "Looping, Switch \u0026 Static\\Exceptions\\InvalidMarks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:24:58.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidInput.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 4\\Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static\\Exceptions\\InvalidInput.cs",
+              "RelativeDocumentMoniker": "Looping, Switch \u0026 Static\\Exceptions\\InvalidInput.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 4\\Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static\\Exceptions\\InvalidInput.cs",
+              "RelativeToolTip": "Looping, Switch \u0026 Static\\Exceptions\\InvalidInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:24:57.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 4\\Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static\\Program.cs",
+              "RelativeDocumentMoniker": "Looping, Switch \u0026 Static\\Program.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 4\\Looping, Switch \u0026 Static\\Looping, Switch \u0026 Static\\Program.cs",
+              "RelativeToolTip": "Looping, Switch \u0026 Static\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:24:12.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
